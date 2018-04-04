@@ -1,2 +1,2 @@
 # code-examples
-Excamples of code for Mapbox
+Examples of code for Mapbox
